@@ -36,7 +36,7 @@ Ontario Base Maps are a popular collection that provides large scale coverage of
 NOTE: You may need to right-click the link and select *Save File As* to download the file.
 NOTE 2: You may also be prompted with a warning about security. Select *keep* from the options to download the file.
 
-    ![email](OBM5.jpg)
+   ![mail](OBM5.jpg)
     
 8. View your DOWNLOADS directory.
 9. Right-click the zip file and select *Extract All*.
