@@ -1,6 +1,3 @@
-![Tool Logo][imglogo]
-
-
 # Ontario Basic Mapping Data
 Ontario Base Maps are a popular collection that provides large scale coverage of the province (1:10,000 - 1:20,000 in the North). The Ontario Basic Mapping Data represents the various geospatial layers that make up these topographic maps. Although the referenced web app and data is somewhat dated, it will prove useful for historical context or basic mapping at a large scale.  
 
