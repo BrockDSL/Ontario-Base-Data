@@ -28,11 +28,15 @@ Ontario Base Maps are a popular collection that provides large scale coverage of
 2. You will be prompted to sign in or register for a free account.
 3. Enter your email and click Proceed to Download.
 4. The interface uses FME translation software to clip and ship the geospatial data. Check the box to agree to the license terms and conditions.
-5. Make other selections as appropriate including file format, projection, layers, etc.
+5. Make other selections as appropriate including download format, coordinates, layers, etc.
 
     ![download window](OBM4.jpg)  
     
-5. 
+5. Click Download Data. You will be prompted with a window thanking you for your download request.
+6. Go to your email and check for a message from the Geography Network.
+7. Click the link provided to download a zip file containing all of your data.
+
+
 
 ### Etc.
  
