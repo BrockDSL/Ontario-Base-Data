@@ -12,13 +12,16 @@ Ontario Base Maps are a popular collection that provides large scale coverage of
 
    ![interface](OBM1.jpg) 
    
-6. Zoom in even more by clicking the plus magnifying glass and drawing a box on the map.
-7. 
+6. Zoom in even more by clicking the plus magnifying glass and drawing a box on the map. As you zoom in, various layers will become visible. See the layer listing to the right of the map view.
+
+    ![zoom](OBM2.jpg)
+    
+8. To turn a layer off, uncheck the visibility box and scroll down in the listing to see the REFRESH button.
 
 
-### Second Header
+### Downloading Data
 
-Content
+1. Once you have the zoom and layers set, click the FME icon to trigger the clip and ship window.
 
 ### Etc.
  
