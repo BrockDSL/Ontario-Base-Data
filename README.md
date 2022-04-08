@@ -21,7 +21,18 @@ Ontario Base Maps are a popular collection that provides large scale coverage of
 
 ### Downloading Data
 
-1. Once you have the zoom and layers set, click the FME icon to trigger the clip and ship window.
+1. Once you have the zoom and layers set, click the FME icon to trigger the download wizard. See the circled FME button below.
+
+    ![FME](OBM3.jpg)
+    
+2. You will be prompted to sign in or register for a free account.
+3. Enter your email and click Proceed to Download.
+4. The interface uses FME translation software to clip and ship the geospatial data. Check the box to agree to the license terms and conditions.
+5. Make other selections as appropriate including file format, projection, layers, etc.
+
+    ![download window](OBM4.jpg)  
+    
+5. 
 
 ### Etc.
  
