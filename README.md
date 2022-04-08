@@ -36,7 +36,16 @@ Ontario Base Maps are a popular collection that provides large scale coverage of
 6. Go to your email and check for a message from the Geography Network.
 7. Click the link provided to download a zip file containing all of your data.
 
+NOTE: You may need to right-click the link and select *Save File As* to download the file.
+NOTE 2: You may also be prompted with a warning about security. Select *keep* from the options to download the file.
 
+    ![email](OBM5.jpg)
+    
+8. View your DOWNLOADS directory.
+9. Right-click the zip file and select *Extract All*.
+10. Define a directory for the unzipped files and click *Extract*.
+
+    ![zipped file](OBM6.jpg)
 
 ### Etc.
  
